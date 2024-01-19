@@ -1,4 +1,4 @@
-from hellowworld import *
+from helloworld import *
 
 def test_add():
     assert add(2,3) == 5
