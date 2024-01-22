@@ -11,3 +11,6 @@ def test_multiply():
 
 def test_divide():
     assert divide(10,5) == 2
+
+if __name__ == "__main__":
+    test_add()
